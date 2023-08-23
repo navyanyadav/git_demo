@@ -1,0 +1,11 @@
+ProjectName : "Basic Software Component"
+Platform : "linux, qnx"
+Teams Name: "Middleware"
+
+About Project:
+building application for 2 platform
+
+Team Member:
+	Amrutha, Hima, Mounika, Navya, Uma, Vineet, Vishwa 
+
+
